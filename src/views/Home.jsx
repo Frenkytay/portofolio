@@ -78,7 +78,7 @@ function App() {
           />
 
           <div>
-            <a href="/Frenky_CV.pdf" download>
+            <a href="/portofolio/Frenky_CV.pdf" download>
               <button className={styles.button_cv}>Download CV</button>
             </a>
 
